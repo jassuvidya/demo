@@ -1,0 +1,42 @@
+.navbar{
+    background-color: lightcoral;
+    width: 100%;
+    height: 100px;
+    font-size: smaller;
+    display: flex;
+    padding: 0 20px;
+
+
+    
+}
+
+.navbar ul{
+    
+    padding:0.5%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+
+
+}
+
+.navbar ul{
+    float: left;
+}
+
+.navbar li{
+    display:inline-block;
+    
+    list-style:none;
+    
+}
+.navbar li a{
+    font-size:18px;
+    text-transform: uppercase;
+    padding:0% 30px;
+    color:blue;
+    text-decoration: none;
+    
+    
+}
